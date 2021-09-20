@@ -6,3 +6,6 @@
 - git add: ad changes from working dir to staging area
 - git commit -m "<message>": commits changes from staging to current branch
 - git log: show history of commits
+- git stash: stash changes from working directory
+- git stash list: list stashed changes
+- git stash pop: apply stashed changes to working directory
