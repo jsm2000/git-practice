@@ -6,3 +6,6 @@
 - git add: ad changes from working dir to staging area
 - git commit -m "<message>": commits changes from staging to current branch
 - git log: show history of commits
+- git brach -c <branch name>:  create branch
+- git checkout <branch name>: check out (switch to) a branch
+
