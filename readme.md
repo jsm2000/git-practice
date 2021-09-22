@@ -17,6 +17,10 @@
 - git merge; merge changes from different branches
 - git show: show a single commit
 - git diff: show the difference between commits, the working directory and the staging area
+- git remote add <remote> <url>: at a new remote at URL
+- git remote -v: list remote repos
+- git push -u <remote> <branch>: Push branch to remote and set default upstream for branch
+  
 
 ## Merging
 Merging means to bring the changes from one branch into another.
