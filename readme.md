@@ -11,6 +11,9 @@
 - git checkout -b <new branch> : creates branch then check it out
 - git branch -c <branch name>:  create branch
 - git branch: list branches
+- git stash: stash changes from working directory
+- git stash list: list stashed changes
+- git stash pop: apply stashed changes to working directory
 - git merge; merge changes from different branches
 
 ## Merging
@@ -18,7 +21,6 @@ Merging means to bring the changes from one branch into another.
 
 - A fast-forward merge happens when the target branch was branched from the current one, and t here are no new changes to the current branch since then.
 -An automatic merge happens when the two histories have diverged but git is able to reconsile then into one set of changes.  This create a new commit on the current branch.
-
 
 
 
