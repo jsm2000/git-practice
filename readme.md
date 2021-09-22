@@ -20,7 +20,7 @@
 - git remote add <remote> <url>: at a new remote at URL
 - git remote -v: list remote repos
 - git push -u <remote> <branch>: Push branch to remote and set default upstream for branch
-  
+- git fetch: fetches changes from remote repo
 
 ## Merging
 Merging means to bring the changes from one branch into another.
